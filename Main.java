@@ -1,3 +1,5 @@
+// Partner: Ayaan Ajmal
+
 import java.util.ArrayList;
 
 class Main {
